@@ -11,6 +11,7 @@ This project investigates evolutionary and structural features of *Plasmodium fa
 | `conserved_regions.ipynb` | Builds a phylogenetic tree using **IQ-TREE** and analyzes conserved regions. Includes plots of the results. |
 | `matrices.ipynb` | Creates distance matrices and analyses cluster |
 | `tree_v2.ipynb` | An alternative version of the phylogenetic tree visualization using **IQ-TREE**; optimized for 4-strain plots. |
+| `preliminary_analysis.ipynb` | Initial data exploration and preprocessing of *Plasmodium falciparum* protein sequences. |
 
 ### Tools and Methods
 - **IQ-TREE**: For constructing phylogenetic trees from aligned sequences.
